@@ -1,0 +1,7 @@
+
+
+
+python-telegram-bot==12.8
+urllib3urllib3==1.25.10
+telegramtelegram==0.0.1
+requestsrequests==2.24.0

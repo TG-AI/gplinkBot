@@ -1,7 +1,6 @@
-# tinyurl-telegram-bot
-
+# GPLink_Telegram_Bot
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lakhac/gplinkBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 

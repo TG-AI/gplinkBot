@@ -4,7 +4,10 @@
     "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
     "keywords": [
         "telegram",
-        "gplink"
+        "gplink",
+        "Telegram bot"
+        
+
     ],
     "website": "https://github.com/Lakhac/gplinkBot",
     "repository": "https://github.com/Lakhac/gplinkBot",

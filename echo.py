@@ -9,6 +9,7 @@ from os import environ
 
 import aiohttp
 
+BOT_TOKEN = environ.get('BOT_TOKEN')
 
 def start(update, context):
 

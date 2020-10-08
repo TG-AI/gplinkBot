@@ -5,6 +5,10 @@ import json
 import re
 from gplink_tokens import tokens
 
+from os import environ
+
+import aiohttp
+
 
 def start(update, context):
 
@@ -53,8 +57,7 @@ def echo(update, context):
 
 
 def main():
-    updater = Updater(
-        "1171709134:AAFE2bXsR-P5nAG7RRE9w9tDQXu8177WHNE", use_context=True)
+    updater = Updater(BOT_TOKEN, use_context=True)
     # token = update.message.text.from_user.first_name
 
     dp = updater.dispatcher

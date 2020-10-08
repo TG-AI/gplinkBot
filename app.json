@@ -1,13 +1,13 @@
 
 {
-    "name": "LAKHAC'S TINYURL LINK SHORTNER TELEGRAM BOT",
+    "name": "LAKHAC'S GpLINK SHORTNER TELEGRAM BOT",
     "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
     "keywords": [
         "telegram",
         "gplink"
     ],
-    "website": "https://github.com/Lakhac/tinyurl-telegram-bot",
-    "repository": "https://github.com/Lakhac/tinyurl-telegram-bot",
+    "website": "https://github.com/Lakhac/gplinkBot",
+    "repository": "https://github.com/Lakhac/gplinkBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",

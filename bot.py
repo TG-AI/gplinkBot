@@ -13,7 +13,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN')
 def start(update, context):
 
     update.message.reply_text(
-        f'Hi! Mr {update.message.from_user.first_name}\n\nSend Me Your Link Fr Short Your Link\n\nFOR MORE TYPE /help \n\nThis Bot Made By @Lakhac\n\nHidden Thanks To @AKHACKER47')
+        f'Hi! Mr {update.message.from_user.first_name}\n\nSend Me Your Link Fr Short Your Link\n\nFOR MORE TYPE /help \n\nThis Bot Made By @Lakhac\n\nHidden Thanks To AKHACKER47')
 
 
 def help_command(update, context):

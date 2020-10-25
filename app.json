@@ -6,8 +6,6 @@
         "telegram",
         "gplink",
         "Telegram bot"
-        
-
     ],
     "website": "https://github.com/Lakhac/gplinkBot",
     "repository": "https://github.com/Lakhac/gplinkBot",
@@ -15,18 +13,7 @@
         "BOT_TOKEN": {
             "description": "Your bot token",
             "value": ""
-        },
-
-        "BLANK": {
-
-            "description": "BLANK",
-            "value": ""
-            "required": false
-
         }
-
-
-
     },
     "addons": [],
     "buildpacks": [

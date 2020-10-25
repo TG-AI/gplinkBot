@@ -17,11 +17,10 @@
             "value": ""
         },
 
-
-           "BLANK": {
+        "BLANK": {
 
             "description": "BLANK",
-
+            "value": ""
             "required": false
 
         }
